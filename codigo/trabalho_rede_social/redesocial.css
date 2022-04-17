@@ -1,0 +1,54 @@
+.body{
+    background-color: rgb(227, 235, 241) ;
+}
+
+.grupos{
+    height: 30px;
+    width: 300px;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.feed{
+    height: 30px;
+    width: 600px;
+    float: left;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 124px;
+    margin-top: 50px;
+
+}
+
+.amigos{
+    height: 30px;
+    width: 300px;
+    float: right;
+    text-align: center;
+    margin-top: 50px;
+}
+.a{
+    background-color: aliceblue;
+    border-style: solid;
+}
+.f{
+    background-color: azure;
+    border-style: solid;
+}
+.g{
+    background-color: cornsilk;
+    border-style: solid;
+}
+img{
+    margin-top: 50px;
+    border-style: solid;
+    border-radius: 20px;
+}
+h3{
+    border-style: solid;
+    border-radius: 20px;
+}
+#t{
+    background-color: aqua;
+}
